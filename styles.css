@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+figure {
+  margin: 0; 
+  padding: 0; 
+}
+
+.image-container {
+  position: relative;
+  display: inline-block;
+}
+
+.image-container img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0; 
+}
+
+.image-container figcaption {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #000000; 
+  /* text-align: center; */
+  font-family: "Georgia"; 
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.image-container h2 {
+  font-size: 30px; 
+  font-weight: 100;
+  margin-top: 75px; 
+  margin-bottom: 10px;
+}
+
+.image-container h1 {
+  font-size: 40px; 
+  /* margin: 0; */
+  justify-content: left;
+  margin-left: 175px;
+  margin-right: 175px;
+  visibility: hidden;
+}
+/* .first-article {
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  margin-top: 50px;
+  margin-left: 175px;
+  margin-right: 175px;
+}
+.second-article {
+    position: relative;
+    padding: 0;
+    max-width: 35rem;
+    margin: 0 auto;
+  }
+
+  .sticky-thing {
+    position: -webkit-sticky;
+    position: sticky;
+    left: 0;
+    width: 100%;
+    margin: 0;
+    background-color: #8a8a8a;
+    z-index: 0;
+    top: 12.5vh;
+    height: 75vh;
+    /* Center everything inside */
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("images/foto1.png");
+    background-size: cover; 
+  }
+
+  /* .sticky-thing p {
+    font-size: 8rem;
+    font-weight: 900;
+    color: #fff;
+  } */
+
+  /* .step {
+    margin: 0 auto 2rem auto;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.1);
+  } */
+
+  /* .step:last-child {
+    margin-bottom: 0;
+  } */
+
+  /* .step.is-active p {
+    background-color: #a58fc4af;
+    color: #3b3b3b;
+  } */
+
+  /* .step p {
+    text-align: left;
+    padding: 1rem;
+    font-size: 1rem;
+    background-color: #3b3b3bd2;
+} */ 
+
+
+
+
+
+/* body {
+  background-color: white;
+  color: black;
+  /* display: flex; */
+  /* font-family: "Georgia"; 
+  font-weight: 300; */
+  /* background-size: cover; */
+
+
+/* #top {
+  background-image: url('images/header.png');  
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+
+/* #title {
+  font-size: 36px;
+  text-align: center;
+  font-weight: 100;
+  justify-content: left;
+  /* margin-top: 125px; */
+  margin-left: 200px;
+  margin-right: 200px;
+} */
+
+/* #subtitle {
+  visibility: hidden;
+  font-size: 50px; 
+  color: black;
+  justify-content: left;
+  margin-top: 125px; 
+  margin-left: 200px;
+  margin-right: 200px;
+} */ */
+
+
+
+/* #text {
+  border-right: solid black 4px; 
+  height: 35px;
+} */
