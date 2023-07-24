@@ -20,7 +20,7 @@ I scraped two news websites, El Vocero and NotiCel. For both, I used BeautifulSo
 
 |  Data                 | File                                                                                                          |
 | --------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Scraped from NotiCel  | [Output NotiCel](https://github.com/cristinadelmar/rewriting-the-narrative/blob/main/NotiCel.ipynb))          |
+| Scraped from NotiCel  | [Output NotiCel](https://github.com/cristinadelmar/rewriting-the-narrative/blob/main/NotiCel.ipynb)          |
 | Scraped from El Vocero| [Output_ElVocero](https://github.com/cristinadelmar/rewriting-the-narrative/blob/main/output_ElVocero.csv)    |
 
 ## Data Analysis Process
